@@ -4,7 +4,7 @@
 
 brew install imagemagick    --> 이미지매직은 그래픽 이미지를 새로 만들거나, 고치는 데 사용되는 자유-오픈 소스 소프트웨어
 
-brew install --with-training-tools tesseract  --> 이미지에서 문자 및 숫자 인식하는 오픈소스
+brew install tesseract  --> 이미지에서 문자 및 숫자 인식하는 오픈소스
 
 brew install tesseract-lang --> tesseract 언어 팩(한글도 인식 어느정도됨)
 
